@@ -1,0 +1,24 @@
+{
+  "name": "Elijah Heyward",
+  "linkedin": "https://www.linkedin.com/in/elijah-heyward-2289631a2/",
+  "github": "eliman387",
+  "email": "elijah.heyward76@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Basketball",
+      "Piano",
+      "Bridge"
+  ]
+}
